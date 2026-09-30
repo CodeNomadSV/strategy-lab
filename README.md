@@ -137,3 +137,21 @@ Then follow the local setup above. Read `START_HERE_FA.md` for the Persian guide
 
 - https://fastapi.tiangolo.com/tutorial/testing/
 - https://docs.python.org/3/library/venv.html
+
+## Screenshots
+
+### Natural-language strategy parsing
+Persian input converted into validated SMA crossover parameters.
+
+![Strategy parser](docs/images/strategy-parser.png)
+
+### Backtest and AI analysis
+Python computes the metrics; the language model provides commentary.
+This example uses synthetic data.
+
+![Backtest and analysis](docs/images/backtest-analysis.png)
+
+### Automated tests on Windows
+37 tests passed.
+
+![Tests on Windows](docs/images/tests-passed.png)
